@@ -1,0 +1,11 @@
+﻿intf2d_out_enhanced_ents spline_and_hatch
+intf2d_out_pnt_ent no
+dxf_out_stroke_text none
+intf2d_out_blanked_layers no
+intf_out_layer none
+dxf_out_comments no
+intf2d_out_acad_mtext yes
+intf2d_out_acad_text_align as_is
+dxf_out_sep_dim_w_breaks no
+intf2d_out_open_log_window no
+dwg_export_format 2004
